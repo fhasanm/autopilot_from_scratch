@@ -1,4 +1,4 @@
-## Autopilot From Scratch: A Fixed-Wing Aircraft Autopilot Model for Basic Testing and Parameter Tuning
+# Autopilot From Scratch: A Fixed-Wing Aircraft Autopilot Model for Basic Testing and Parameter Tuning
 By [Fuad Hasan](https://www.linkedin.com/in/fuadhasanm/)
 
 
